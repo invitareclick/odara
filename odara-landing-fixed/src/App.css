@@ -1,0 +1,15 @@
+.header {
+  text-align: center;
+  padding: 100px 20px;
+  background-color: #fff5f0;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+  font-family: 'Playfair Display', serif;
+}
+
+p {
+  font-size: 1.2rem;
+}

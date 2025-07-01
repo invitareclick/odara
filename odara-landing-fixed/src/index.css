@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background-color: #fdfdfd;
+  color: #2f2f2f;
+}
+
+a {
+  text-decoration: none;
+}
+
+.cta-button {
+  padding: 10px 20px;
+  background-color: #f6c1b4;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  margin-top: 20px;
+  display: inline-block;
+}
